@@ -20,7 +20,7 @@ public class CompareUnits {
             converter = UnitSearch.containsLength(unit);
         }
         catch (Exception e){
-            System.out.printf("Error..");
+            System.out.printf("Error");
         }
     }
     @Override
