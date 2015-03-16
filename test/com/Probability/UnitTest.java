@@ -2,6 +2,7 @@ package com.Probability;
 
 import org.testng.annotations.Test;
 
+
 import static junit.framework.Assert.assertEquals;
 import static junit.framework.TestCase.assertFalse;
 import static junit.framework.TestCase.assertTrue;

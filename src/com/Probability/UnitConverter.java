@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class UnitConverter {
-
     public static Map<Units, Double> getLengthConverter(){
         Map<Units, Double> lengthConverter = new HashMap<Units, Double>();
         lengthConverter.put(Units.INCHES, 1.0);
